@@ -6,6 +6,7 @@ Downloads songs in spotify playlist from youtube (the best results).
 
 - `youtube-dl`
 - `spotipy`
+- `youtube-search-python`
 
 ## other requirements
 
