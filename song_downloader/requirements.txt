@@ -1,3 +1,0 @@
-youtube-dl
-spotipy
-youtube-search-python
